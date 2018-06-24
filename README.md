@@ -16,13 +16,13 @@
 
 #### MacOS
 
-![jdbc_connector_macOS](.img/jdbc_connector_macOS.png)
+![jdbc_connector_macOS](./img/jdbc_connector_macOS.png)
 
 #### Add External JAR
 
 After download Connector Archive, you can find the `mysql-connector-java-8.0.11.jar` file below.
 
-![jdbc_connector_jar](.img/jdbc_connector_jar.png)
+![jdbc_connector_jar](./img/jdbc_connector_jar.png)
 
 Add this JAR file to the JRE system libraries via the `Add External JARs...` button. 
 
