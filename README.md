@@ -16,17 +16,17 @@
 
 #### MacOS
 
-![jdbc_connector_macOS](/Users/jeongwhanchoi/Documents/RickGuitar/RicksGuitar/img/jdbc_connector_macOS.png)
+![jdbc_connector_macOS](.img/jdbc_connector_macOS.png)
 
 #### Add External JAR
 
 After download Connector Archive, you can find the `mysql-connector-java-8.0.11.jar` file below.
 
-![jdbc_connector_jar](/Users/jeongwhanchoi/Documents/RickGuitar/RicksGuitar/img/jdbc_connector_jar.png)
+![jdbc_connector_jar](.img/jdbc_connector_jar.png)
 
 Add this JAR file to the JRE system libraries via the `Add External JARs...` button. 
 
-![jdbc_add](/Users/jeongwhanchoi/Documents/RickGuitar/RicksGuitar/img/jdbc_add.png)
+![jdbc_add](./img/jdbc_add.png)
 
 ### .properties
 
@@ -42,29 +42,29 @@ dburl=jdbc:mysql://localhost:3306/ricksGuitar?autoReconnect=true&useSSL=false&us
 
 ### Search
 
-![sc_search](/Users/jeongwhanchoi/Documents/RickGuitar/RicksGuitar/img/sc_search.png)
+![sc_search](./img/sc_search.png)
 
 ### Detail Search
 
-![sc_detail_search](/Users/jeongwhanchoi/Documents/RickGuitar/RicksGuitar/img/sc_detail_search.png)
+![sc_detail_search](./img/sc_detail_search.png)
 
 ### Add
 
-![sc_add](/Users/jeongwhanchoi/Documents/RickGuitar/RicksGuitar/img/sc_add.png)
+![sc_add](./img/sc_add.png)
 
-![sc_added](/Users/jeongwhanchoi/Documents/RickGuitar/RicksGuitar/img/sc_added.png)
+![sc_added](./img/sc_added.png)
 
 ### Edit
 
-![sc_edit](/Users/jeongwhanchoi/Documents/RickGuitar/RicksGuitar/img/sc_edit.png)
+![sc_edit](./img/sc_edit.png)
 
-![sc_edited](/Users/jeongwhanchoi/Documents/RickGuitar/RicksGuitar/img/sc_edited.png)
+![sc_edited](./img/sc_edited.png)
 
 ### Delete
 
-![sc_delete](/Users/jeongwhanchoi/Documents/RickGuitar/RicksGuitar/img/sc_delete.png)
+![sc_delete](./img/sc_delete.png)
 
-![sc_deleted](/Users/jeongwhanchoi/Documents/RickGuitar/RicksGuitar/img/sc_deleted.png)
+![sc_deleted](./img/sc_deleted.png)
 
 
 
