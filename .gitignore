@@ -96,4 +96,9 @@ hs_err_pid*
 # End of https://www.gitignore.io/api/java
 
 # Properties Files #
-*.properties
+*.propertie
+
+
+# UML files
+*.ucls
+./*.ucls
