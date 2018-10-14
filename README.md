@@ -1,5 +1,7 @@
 # Rick's Guitar App
 
+![Imagebot](https://img.shields.io/badge/imgbot-optimized-lightgrey.svg)
+
 ## Environment
 
 - JavaSE-1.8 
