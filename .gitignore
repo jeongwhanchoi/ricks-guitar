@@ -102,3 +102,6 @@ hs_err_pid*
 # UML files
 *.ucls
 ./*.ucls
+
+# Configuration
+config.properties
